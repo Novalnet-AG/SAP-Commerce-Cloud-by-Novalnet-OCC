@@ -1,0 +1,10 @@
+*** Changelog ***
+
+= 1.0.1   - 2023.01.03 =
+* Fix -  Missing beans added in the novalnetfacades
+* Enhanced -  Updated the Gson version to 2.9.0
+* Removed - Non-existing property on a bean in novalnetocc
+* Removed - Unused import to a Mirakl class in extension which adds a requirement
+
+= 1.0.0   - 2022.12.14 = 
+- New Release: Payment extension built with seamless payment experience with new v2 API structure and enhanced features with better usability
