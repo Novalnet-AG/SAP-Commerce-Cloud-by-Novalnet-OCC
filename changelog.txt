@@ -1,5 +1,10 @@
 *** Changelog ***
 
+= 1.0.2   - 2024.04.17 = 
+* Enhanced - Refactored the parameters for the order creation API
+* Enhanced - Checksum validation in Novalnet Composable storefront extension
+* Enhanced - For the Failed transactions, an error notice was sent to the Spartacus storefront 
+
 = 1.0.1   - 2023.01.03 =
 * Fix -  Missing beans added in the novalnetfacades
 * Enhanced -  Updated the Gson version to 2.9.0
